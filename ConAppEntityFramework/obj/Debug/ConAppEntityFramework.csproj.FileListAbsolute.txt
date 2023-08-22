@@ -1,0 +1,3 @@
+C:\mssql\Aug22Assign8\ConAppEntityFramework\obj\Debug\ConAppEntityFramework.csproj.AssemblyReference.cache
+C:\mssql\Aug22Assign8\ConAppEntityFramework\obj\Debug\ConAppEntityFramework.csproj.SuggestedBindingRedirects.cache
+C:\mssql\Aug22Assign8\ConAppEntityFramework\obj\Debug\ConAppEntityFramework.csproj.CoreCompileInputs.cache
